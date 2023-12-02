@@ -20,7 +20,7 @@ public class Main {
         List<String> games = Files.readAllLines(new File("src/Day02/ressources/games.txt").toPath(), Charset.defaultCharset());
 
 
-//        exercise1(games);
+        exercise1(games);
         exercise2(games);
 
 
