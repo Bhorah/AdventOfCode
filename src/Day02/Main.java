@@ -17,19 +17,20 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
+        List<String> games = Files.readAllLines(new File("src/Day02/ressources/games.txt").toPath(), Charset.defaultCharset());
 
-        exercise1();
+
+//        exercise1(games);
+        exercise2(games);
 
 
     }
 
-    public static void exercise1() throws IOException {
-
-        List<String> games = Files.readAllLines(new File("src/Day02/ressources/games.txt").toPath(), Charset.defaultCharset());
-
-        int red = 12;
-        int green = 13;
-        int blue = 14;
+    public static void exercise1(List<String> games){
+        
+        int maxRed = 12;
+        int maxGreen = 13;
+        int maxBlue = 14;
 
         Integer answer = 0;
 
@@ -41,11 +42,29 @@ public class Main {
             int biggestBlue = getBiggestOfColor(game, "blue");
 
 
-            if(biggestBlue <= blue && biggestGreen <= green && biggestRed <= red){
+            if(biggestBlue <= maxBlue && biggestGreen <= maxGreen && biggestRed <= maxRed){
                 answer += id;
             }
         };
 
+        System.out.println(answer);
+    }
+
+
+    public static void exercise2(List<String> games) {
+
+        long answer = 0;
+
+        for (String game : games) {
+
+            int biggestRed = getBiggestOfColor(game, "red");
+            int biggestGreen = getBiggestOfColor(game, "green");
+            int biggestBlue = getBiggestOfColor(game, "blue");
+
+            if(biggestBlue != 0 && biggestRed != 0 && biggestGreen != 0){
+                answer += biggestRed * biggestGreen * biggestBlue;
+            }
+        }
         System.out.println(answer);
     }
 
