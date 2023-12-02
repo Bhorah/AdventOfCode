@@ -8,16 +8,12 @@ C
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 @
 AdventOfCode.iml,4\9\490713f32cf406b477cd295f5579ab23e11b9e0a
-H
-src/Day01/Exercice1.java,5\5\554f9a50f9292e3838e8e1ea8e26c1109ceb0072
 O
 src/Day01/ressources/coords.txt,c\f\cff09760940fcd12354731cef5b72e1af48ef09e
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 H
 src/Day01/Exercise1.java,e\3\e379a67681a3bb88b0f9217a256875cffb788314
-F
-src/Day01/Numbers.java,6\1\61182e22f4634858e4449e12abbcb75c23ddc604
 w
 G.idea/sonarlint/issuestore/c/f/cff09760940fcd12354731cef5b72e1af48ef09e,8\a\8a483bedac43ddaef731c38829d7394cca283cf3
 S
@@ -26,5 +22,3 @@ S
 Q.idea/sonarlint/securityhotspotstore/c/f/cff09760940fcd12354731cef5b72e1af48ef09e,d\b\db1ed25722f4f01088dc8554e0ed89c163ee8175
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-Å
-Q.idea/sonarlint/securityhotspotstore/5/5/554f9a50f9292e3838e8e1ea8e26c1109ceb0072,b\1\b1fd2e3b07554e60274d78cb15a23b807bf8c140

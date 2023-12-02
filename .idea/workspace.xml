@@ -4,27 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eeec8fe-617c-4e81-89b2-445bf6e23973" name="Changes" comment="Premier commit">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/554f9a50f9292e3838e8e1ea8e26c1109ceb0072" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cff09760940fcd12354731cef5b72e1af48ef09e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/5/554f9a50f9292e3838e8e1ea8e26c1109ceb0072" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/f/cff09760940fcd12354731cef5b72e1af48ef09e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/ressources/coords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AdventOfCode-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="2eeec8fe-617c-4e81-89b2-445bf6e23973" name="Changes" comment="exercice1">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b2e0a1b3debe0b7d2d3980dc4a892ffaaa5586b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b2e0a1b3debe0b7d2d3980dc4a892ffaaa5586b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/554f9a50f9292e3838e8e1ea8e26c1109ceb0072" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/5/554f9a50f9292e3838e8e1ea8e26c1109ceb0072" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day01/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day01/Exercise1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +151,8 @@
       <updated>1701419841818</updated>
       <workItem from="1701419843180" duration="1109000" />
       <workItem from="1701424100326" duration="984000" />
-      <workItem from="1701425093615" duration="5276000" />
+      <workItem from="1701425093615" duration="6783000" />
+      <workItem from="1701459746155" duration="4507000" />
     </task>
     <task id="LOCAL-00001" summary="Premier commit">
       <option name="closed" value="true" />
@@ -174,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701420060669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercice1">
+      <option name="closed" value="true" />
+      <created>1701437787526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701437787526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,20 +190,16 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Premier commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Premier commit" />
+    <MESSAGE value="exercice1" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercice1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Day01/Exercise1.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Day01/Exercise1.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="15" />
+          <line>40</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
